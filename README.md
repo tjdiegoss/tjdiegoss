@@ -40,7 +40,7 @@ alt="typescript" width="40" height="40"/> </a>
   <h3 align="left">Tools:</h3> 
   
     <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"
-</p>  
+  
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
 alt="oracle" width="40" height="40"/> </a>
