@@ -26,7 +26,7 @@
   
   <h3 align="left">Tools:</h3> 
   <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-  <img alt="notepadplusplus" height="40" width="40" src="https://github.com/tjdiegoss/tjdiegoss/blob/main/Portfolio/notepadplusplus.png" />
+  
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -53,5 +53,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjdiegoss&label=Profile%20views&color=0e75b6&style=flat" alt="tjdiegoss" /> </p>
     
   </div>
-  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tjdiegoss&" alt="tjdiegoss" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjdiegoss&theme=github" /></p>
   ##
