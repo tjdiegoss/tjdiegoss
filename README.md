@@ -38,7 +38,7 @@ alt="typescript" width="40" height="40"/> </a>
   <div>
   
   <h3 align="left">Tools:</h3> 
-  
+  <p align="left">
     <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"
   
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
@@ -54,7 +54,7 @@ alt="mysql" width="40" height="40"/> </a>
 alt="postgresql" width="40" height="40"/> </a>    
     <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
   
-   
+   </p>
   
   </div>
   
