@@ -1,12 +1,14 @@
-## Olá, me chamo Diego e sou programador Backend!
+# Olá, Mundo! Me chamo Diego e sou programador Fullstack!
 <div align="center">
   <a href="https://github.com/tjdiegoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjdiegoss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjdiegoss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
-<h3 align="left">Languages & Framewroks:</h3> 
+---  
+
+
+<h3 align="center">Languages & Framewroks:</h3> 
 <div style="display: inline_block"><br>
    
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -31,13 +33,14 @@ alt="typescript" width="40" height="40"/> </a>
   
 </div>
   
-  ##
+ ---  
+
   
-  ##
+ 
   
   <div>
   
-  <h3 align="left">Tools:</h3> 
+  <h3 align="center">Tools:</h3> 
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a>
     
@@ -61,7 +64,9 @@ alt="postgresql" width="40" height="40"/> </a>
   
   </div>
   
-  ##
+---  
+<h3 align="center">Contact:</h3> 
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UCyJRHWkAHBD-t_A_Sym1QDA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -75,7 +80,8 @@ alt="postgresql" width="40" height="40"/> </a>
  
 </div>
   
-  ##
+---  
+
   <div>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjdiegoss&label=Profile%20views&color=0e75b6&style=flat" alt="tjdiegoss" /> </p>
