@@ -7,9 +7,9 @@
 
 ---  
 
-<div align="center">
-<h3 align="center">Languages & Framewroks:</h3> 
 
+<h3 align="center">Languages & Framewroks:</h3> 
+<div align="center">
    
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
@@ -32,7 +32,9 @@ alt="typescript" width="40" height="40"/> </a>
 <br>
 
 <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+
 <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   
@@ -43,11 +45,11 @@ alt="typescript" width="40" height="40"/> </a>
   
  
   
-  <div>
+  <div align="center">
   
   <h3 align="center">Tools:</h3> 
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a>
+  
     
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
